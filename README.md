@@ -1,3 +1,4 @@
 # apnacollege-demo
 this is my first git repository
-author name -prashant nayak
+<br>
+author name -prashant nayak(apna college)
